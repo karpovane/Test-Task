@@ -1,0 +1,10 @@
+from weather_api.weather_api_client import WeatherApiClient
+# Configuration parameters and credentials
+appid = 'e7b16ebe3fbe47e6b97f6821cff80e5d' # app key
+place=input ('введите город')
+client = WeatherApiClient(appid)
+def find(self,
+                place)
+
+  input()
+    
